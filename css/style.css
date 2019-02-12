@@ -3268,7 +3268,7 @@ input[type="button"].btn-block {
     justify-content: space-between; }
 
 .navbar-brand {
-  display: inline-block;
+  display: none;
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
@@ -3324,7 +3324,7 @@ input[type="button"].btn-block {
     cursor: pointer; }
 
 .navbar-toggler-icon {
-  display: inline-block;
+  display: none;
   width: 1.5em;
   height: 1.5em;
   vertical-align: middle;
